@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Rub9\Rub9\bin\Debug\net7.0\Rub9.exe
+C:\Users\User\source\repos\Rub9\Rub9\bin\Debug\net7.0\Rub9.deps.json
+C:\Users\User\source\repos\Rub9\Rub9\bin\Debug\net7.0\Rub9.runtimeconfig.json
+C:\Users\User\source\repos\Rub9\Rub9\bin\Debug\net7.0\Rub9.dll
+C:\Users\User\source\repos\Rub9\Rub9\bin\Debug\net7.0\Rub9.pdb
+C:\Users\User\source\repos\Rub9\Rub9\obj\Debug\net7.0\Rub9.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Rub9\Rub9\obj\Debug\net7.0\Rub9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Rub9\Rub9\obj\Debug\net7.0\Rub9.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Rub9\Rub9\obj\Debug\net7.0\Rub9.AssemblyInfo.cs
+C:\Users\User\source\repos\Rub9\Rub9\obj\Debug\net7.0\Rub9.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Rub9\Rub9\obj\Debug\net7.0\Rub9.dll
+C:\Users\User\source\repos\Rub9\Rub9\obj\Debug\net7.0\refint\Rub9.dll
+C:\Users\User\source\repos\Rub9\Rub9\obj\Debug\net7.0\Rub9.pdb
+C:\Users\User\source\repos\Rub9\Rub9\obj\Debug\net7.0\Rub9.genruntimeconfig.cache
+C:\Users\User\source\repos\Rub9\Rub9\obj\Debug\net7.0\ref\Rub9.dll
